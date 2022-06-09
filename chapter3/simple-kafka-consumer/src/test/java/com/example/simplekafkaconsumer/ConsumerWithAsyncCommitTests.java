@@ -1,4 +1,4 @@
-package com.example.consumer.simpleKafkaConsumer;
+package com.example.simplekafkaconsumer;
 
 import org.apache.kafka.clients.consumer.*;
 import org.apache.kafka.common.TopicPartition;
@@ -51,4 +51,3 @@ public class ConsumerWithAsyncCommitTests {
         }
     }
 }
-
